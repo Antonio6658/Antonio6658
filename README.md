@@ -1,10 +1,10 @@
 # Hello There! 
 
-## About me: My name is Antonio Rodriguez Jr! I am a GIT Full-Stack Web Development student at ASU!
+### About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
 
 I am learning more about how to design responsive and great-looking websites that are efficient at what they are needed for.
 
-I hope to work at a company that shares my belief in designing great websites for anyone who needs them.
+I aspire to work at a company that shares my belief in designing great websites for anyone who needs them.
 
 ### What I enjoy about coding:
 1. Problem solving
