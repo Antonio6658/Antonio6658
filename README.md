@@ -6,7 +6,7 @@
                                                                                                                     height: 300px;
                                                                                                                     object-fit: cover;
                                                                                                                     object-position: cover;
-                                                                                                                    clip-path: inset(20% 0% 20% 0%); >
+                                                                                                                    clip-path: inset(20% 0% 20% 0%); ">
             </a>
         </p>
 
