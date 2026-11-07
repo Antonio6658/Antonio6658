@@ -1,6 +1,10 @@
 <p align="center">
     <a href="https://github.com/Antonio6658">
-        <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop.">
+        <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop." style=" width: 100%;
+                                                                                                                    height: 300px;
+                                                                                                                    object-fit: cover;
+                                                                                                                    object-position: cover;
+                                                                                                                    clip-path: inset(20% 0% 20% 0%); >
 # Hello There! 
 
 ## About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
