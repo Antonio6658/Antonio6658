@@ -1,4 +1,4 @@
-# Hello There! 
+# Hello There! 😄
 
 <p align="center">
     <a href="https://github.com/Antonio6658">
@@ -9,45 +9,51 @@
                                                                                                                     clip-path: inset(20% 0% 20% 0%); >
             </a>
         </p>
-# Hello There! 
 
-## About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
+## 🌎 Background 
+I am 28 years old, from Southern California. I have been studying Full-Stack Web 
+development at ASU since 2024 and have studied general education and web development 
+since 2021. My career goal is to work for an established company that builds and maintains 
+websites and web applications for clients.  
 
-I am learning more about how to design responsive and great-looking websites that are efficient at what they are needed for.
+### 🏈 Interests  
+- Playing video games
+- Collecting Pokemon Trading Cards
+- Watching football
+- Coding for fun
+- Enjoying new music
+- Cooking food
 
-I aspire to work at a company that shares my belief in designing great websites for anyone who needs them.
+## 📚 Knowledge  
+### ⚡ Skills  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-### What I enjoy about coding:
-1. Problem solving
-2. Creating a program from scratch
-3. Helping others with code
+### 🔧 Tools 
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
-### My technical skills:
-1. Adobe Photoshop
-2. Adobe Illustrator
-3. Basic HTML and CSS
-4. Basic C++
-5. Basic Python
-
-### My Hobbies:
-1. Playing video games
-2. Collecting Pokemon Trading Cards
-3. Watching football
-4. Coding for fun
-5. Enjoying new music
-6. Cooking food
-
-Here is my Linkedin Page:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="antonio-rodriguez-79b6b6224" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/antonio-rodriguez-79b6b6224?trk=profile-badge">Antonio Rodriguez</a></div>
+### ✨ Stats
+<div class="badges-githubstats">
+  <img src="https://github-stats-extended.vercel.app/api?username=Antonio6658&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="Antonio6658's github statistics" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antonio6658&layout=compact&langs_count=20&role=OWNER,ORGANIZATION_MEMBER&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" alt="Top Languages" />
+</div>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Antonio6658&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,111111,333333 "my Github Stats")
-<!--
+## 🚀 Projects/featured work 
+ 
+### 👥 Mentor Connection 
+- A website about connecting with Mentors. Getting better at your hobby. Making memories.
+- https://github.com/Antonio6658/GIT-480-Senior-Project
+### ☕ SoCal Coffee Shop
+- A project giving an online platform to a local business.
+- https://github.com/Antonio6658/GIT-417-Final-Project
+### ⛳ VGC Introduction
+- A website giving information regarding playing competitive Pokémon
+- https://github.com/Antonio6658/Responsive-Layout-Systems-Build
+  
+## 📬 Contact 
+You can find me here! Let’s work together!
 
-
-
-
-
-
+<img src="https://img.shields.io/badge/Email-Antonio6658%40icloud.com-red?style=for-the-badge"> <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fantonio6658-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Portfolio-%20www.portfolio.com-green?style=for-the-badge"> 
 
  
 
