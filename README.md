@@ -3,10 +3,10 @@
 <p align="center">
     <a href="https://github.com/Antonio6658">
         <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop." style=" width: 100%;
-                                                                                                                    height: 300px;
+                                                                                                                    height: 350px;
                                                                                                                     object-fit: cover;
                                                                                                                     object-position: cover;
-                                                                                                                    clip-path: inset(20% 0% 20% 0%); ">
+                                                                                                                    clip-path: inset(25% 0% 25% 0%); ">
             </a>
         </p>
 
