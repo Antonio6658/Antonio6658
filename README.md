@@ -11,7 +11,7 @@
         </p>
 
 ## 🌎 Background 
-I am 28 years old and from Southern California. I have been studying Full-Stack Web development at ASU since 2024. I studied general education and web development at my local community college from 2021-2024. My career goal is to work for an established company that builds and maintains websites and web applications for clients.  
+I am 28 years old and from Southern California. I have been studying Full-Stack Web Development at ASU since 2024. I studied general education and web development at my local community college from 2021 to 2024. My career goal is to work for an established company that builds and maintains websites and web applications for clients.  
 
 ### 🏈 Interests  
 - Playing video games
