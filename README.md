@@ -1,6 +1,9 @@
+<p align="center">
+    <a href="https://github.com/Antonio6658">
+        <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop.">
 # Hello There! 
 
-### About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
+## About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
 
 I am learning more about how to design responsive and great-looking websites that are efficient at what they are needed for.
 
