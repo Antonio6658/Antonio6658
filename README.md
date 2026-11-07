@@ -7,6 +7,8 @@
                                                                                                                     object-fit: cover;
                                                                                                                     object-position: cover;
                                                                                                                     clip-path: inset(20% 0% 20% 0%); >
+            </a>
+        </p>
 # Hello There! 
 
 ## About me: My name is Antonio Rodriguez Jr. I am a **GIT Full-Stack Web Development** student at **ASU**.
