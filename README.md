@@ -1,6 +1,7 @@
 # Hello there! 😄
 
 <p align="center">
+    <img src="/images/Asset 1.png">
     <a href="https://github.com/Antonio6658">
         <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop." style=" width: 100%;
                                                                                                                     height: 350px;
