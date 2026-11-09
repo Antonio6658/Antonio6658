@@ -1,7 +1,8 @@
-# Hello there! 😄
+# Welcome 💡 
 
 <p align="center">
     <img src="/images/Asset 1.png">
+    <p>I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</p>
     <a href="https://github.com/Antonio6658">
         <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop." style=" width: 100%;
                                                                                                                     height: 350px;
