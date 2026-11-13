@@ -1,6 +1,6 @@
 # 🙌 Welcome  
 <p align="center">
-    <a href="https://github.com/Antonio6658"><img src="/images/Asset 1.png"></a>
+    <a href="https://github.com/Antonio6658"><img src="/images/Asset 3.png"></a>
 <p> I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</p></p>
 
 ## 🌎 Background 
