@@ -1,7 +1,13 @@
 # 🙌 Welcome  
-<p align="center">
-    <a href="https://github.com/Antonio6658"><img src="/images/Asset 3.png"></a>
-<p> I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</p></p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Artboard 1.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/Artboard 1_1.png">
+  <img src="images/Artboard 1.png" alt="Antonio Rodriguez Jr" width="100%">
+</picture>
+
+**I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.**
+</div>
 
 ## 🌎 Background 
 I am 28 years old and from Southern California. I have been studying Full-Stack Web Development at ASU since 2024. I studied general education and web development at my local community college from 2021 to 2024. My career goal is to work for an established company that builds and maintains websites and web applications for clients.  
@@ -36,19 +42,21 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
  
 ### 👥 Mentor Connection 
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
-- https://github.com/Antonio6658/GIT-480-Senior-Project
+- [Mentor Connection Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
-- https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio
-- https://github.com/Antonio6658/SoCalCoffeeShop
+- [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio)
+- [SoCal Coffee Shop Repository](https://github.com/Antonio6658/SoCalCoffeeShop)
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
-- https://github.com/Antonio6658/Responsive-Layout-Systems-Build
+- [VGC Introduction Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
   
 ## 📬 Contact 
 You can find me here! Let’s work together!
 
-<img src="https://img.shields.io/badge/Email-Antonio6658%40icloud.com-red?style=for-the-badge"><img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fantonio6658-blue?style=for-the-badge"><img src="https://img.shields.io/badge/Portfolio-%20www.portfolio.com-green?style=for-the-badge"> 
+·<img src="https://img.shields.io/badge/Email-Antonio6658%40icloud.com-red?style=for-the-badge">
+·<img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fantonio6658-blue?style=for-the-badge">
+·<img src="https://img.shields.io/badge/Portfolio-%20www.portfolio.com-green?style=for-the-badge"> 
 
  
 
