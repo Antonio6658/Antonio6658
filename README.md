@@ -1,16 +1,7 @@
-# Welcome 💡 
-
+# 🙌 Welcome  
 <p align="center">
-    <img src="/images/Asset 1.png">
-    <p>I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</p>
-    <a href="https://github.com/Antonio6658">
-        <img src="./images/backgroundbannerimg.jpg" alt="stars and moon image against a snowy mountaintop." style=" width: 100%;
-                                                                                                                    height: 350px;
-                                                                                                                    object-fit: cover;
-                                                                                                                    object-position: cover;
-                                                                                                                    clip-path: inset(25% 0% 25% 0%); ">
-            </a>
-        </p>
+    <a href="https://github.com/Antonio6658"><img src="/images/Asset 1.png"></a>
+<p> I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</p></p>
 
 ## 🌎 Background 
 I am 28 years old and from Southern California. I have been studying Full-Stack Web Development at ASU since 2024. I studied general education and web development at my local community college from 2021 to 2024. My career goal is to work for an established company that builds and maintains websites and web applications for clients.  
@@ -48,7 +39,8 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 - https://github.com/Antonio6658/GIT-480-Senior-Project
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
-- https://github.com/Antonio6658/GIT-417-Final-Project
+- https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio
+- https://github.com/Antonio6658/SoCalCoffeeShop
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
 - https://github.com/Antonio6658/Responsive-Layout-Systems-Build
