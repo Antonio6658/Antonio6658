@@ -3,11 +3,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Artboard 1.png">
   <source media="(prefers-color-scheme: light)" srcset="images/Artboard 1_1.png">
-  <img src="images/Artboard 1.png" alt="Antonio Rodriguez Jr" width="100%">
+  <img src="images/Artboard 1_1.png" alt="Antonio Rodriguez Jr" width="100%">
 </picture>
-
-**I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.**
 </div>
+<p><strong>I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</strong></p>
+
 
 ## 🌎 Background 
 I am 28 years old and from Southern California. I have been studying Full-Stack Web Development at ASU since 2024. I studied general education and web development at my local community college from 2021 to 2024. My career goal is to work for an established company that builds and maintains websites and web applications for clients.  
@@ -21,10 +21,12 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 - Cooking food
 
 ## 📚 Knowledge  
+
 ### ⚡ Skills  
 
 #### 🖥️ Coding
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
 #### ✏️ Creative
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
 
@@ -43,10 +45,12 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 ### 👥 Mentor Connection 
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
 - [Mentor Connection Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
+  
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
 - [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio)
 - [SoCal Coffee Shop Repository](https://github.com/Antonio6658/SoCalCoffeeShop)
+  
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
 - [VGC Introduction Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
@@ -54,9 +58,7 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 ## 📬 Contact 
 You can find me here! Let’s work together!
 
-·<img src="https://img.shields.io/badge/Email-Antonio6658%40icloud.com-red?style=for-the-badge">
-·<img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fantonio6658-blue?style=for-the-badge">
-·<img src="https://img.shields.io/badge/Portfolio-%20www.portfolio.com-green?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Email-Antonio6658%40icloud.com-red?style=for-the-badge"><img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fantonio6658-blue?style=for-the-badge"><img src="https://img.shields.io/badge/Portfolio-%20www.portfolio.com-green?style=for-the-badge"> 
 
  
 
