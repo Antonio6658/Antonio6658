@@ -1,5 +1,4 @@
-## Project Title
-**Reformatting the future of the eDreams website (UX Design)**
+# Reformatting the future of the eDreams website (UX Design)
 
 ## Background
 eDreams is a global travel agency. It services international travel markets with flights and vacation packages.
