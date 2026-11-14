@@ -51,23 +51,23 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
  
 ### 👥 Mentor Connection 
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
-- Mentor Connection Case Study: <a href="/CaseStudyContent/MentorConnection.md">
+- <a href="CaseStudyContent/MentorConnection.md">Mentor Connection Case Study</a>
 - [Mentor Connection Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
   
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
-- SoCal Coffee Shop Case Study: <a href="/CaseStudyContent/SoCalCoffeeShop.md">
+- <a href="CaseStudyContent/SoCalCoffeeShop.md">SoCal Coffee Shop Case Study</a>
 - [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio)
 - [SoCal Coffee Shop Repository](https://github.com/Antonio6658/SoCalCoffeeShop)
   
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
-- VGC Introduction Case Study: <a href="/CaseStudyContent/VGCIntroduction.md">
+- <a href="CaseStudyContent/VGCIntroduction.md">VGC Introduction Case Study</a>
 - [VGC Introduction Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
 
 ### ✈️ eDreams UX Redesign
 - Reformatting eDreams Website for a better user experience.
-- eDreams Case Study: <a href="/CaseStudyContent/eDreams.md">
+- <a href="CaseStudyContent/eDreams.md">eDreams Case Study</a>
   
 ## 📬 Contact 
 You can find me here! Let’s work together!
