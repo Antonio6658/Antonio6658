@@ -1,4 +1,4 @@
-# Modernizing Competitive Pokémon Resources with VGC Introduction
+# Project Title: Modernizing Competitive Pokémon Resources with VGC Introduction
 
 ## Objective
 The objective of this was to design an informational website about the rules of Competitive Pokémon and create a modern resource for players to utilize.

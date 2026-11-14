@@ -1,4 +1,4 @@
-# Using a website to bridge connections for hobbyists looking for community (work in progress)
+# Project Title: Using a website to bridge connections for hobbyists looking for community (work in progress)
 
 ## Objective
 Many hobbyists struggle to improve their skills or stay motivated in their practice. Finding communities for their respective hobby can be difficult. The objective is to design a website that bridges this gap between experienced hobbyists and beginners.

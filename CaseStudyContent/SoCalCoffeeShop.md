@@ -1,4 +1,4 @@
-# Building a website presence for a local business
+# Project Title: Building a website presence for a local business
 
 ## Objective
 I was tasked with creating a website platform for a local coffee shop that needed a digital presence to boost business and exposure. Because I frequent local coffee shops, I always check a business’s online presence to view menus and pricing when I am not physically there. Giving this shop an online presence will help them gain a stronger following.
