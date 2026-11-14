@@ -22,14 +22,14 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 
 ## 📚 Knowledge  
 
-### Education 
-| School | Focus Area |
-| --- | --- |
-| **Arizona State University** | Bachelor of Science (BS) Graphic Information Technology (Full-Stack Web Development) |
-| **Riverside City College** | Web Development Mastery Certification|
+### 📖 Education 
+| School | Focus Area | Graduation Date
+| --- | --- | --- |
+| **Arizona State University** | Bachelor of Science (BS) Graphic Information Technology (Full-Stack Web Development) | Planned May 2027 |
+| **Riverside City College** | Web Development Mastery Certification| Dec 2024 | 
 
 
-### ⚡ Skills  
+## ⚡ Skills  
 
 #### 🖥️ Coding
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -51,23 +51,19 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
  
 ### 👥 Mentor Connection 
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
-- <a href="CaseStudyContent/MentorConnection.md">Mentor Connection Case Study</a>
-- [Mentor Connection Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
+- <a href="CaseStudyContent/MentorConnection.md">Case Study</a> | [Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
   
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
-- <a href="CaseStudyContent/SoCalCoffeeShop.md">SoCal Coffee Shop Case Study</a>
-- [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio)
-- [SoCal Coffee Shop Repository](https://github.com/Antonio6658/SoCalCoffeeShop)
+- <a href="CaseStudyContent/SoCalCoffeeShop.md">Case Study</a> | [Repository](https://github.com/Antonio6658/SoCalCoffeeShop) | [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio) 
   
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
-- <a href="CaseStudyContent/VGCIntroduction.md">VGC Introduction Case Study</a>
-- [VGC Introduction Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
+- <a href="CaseStudyContent/VGCIntroduction.md">Case Study</a> | [Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
 
 ### ✈️ eDreams UX Redesign
 - Reformatting eDreams Website for a better user experience.
-- <a href="CaseStudyContent/eDreams.md">eDreams Case Study</a>
+- <a href="CaseStudyContent/eDreams.md">Case Study</a>
   
 ## 📬 Contact 
 You can find me here! Let’s work together!
