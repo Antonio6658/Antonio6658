@@ -1,9 +1,9 @@
 # 🙌 Welcome  
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/Artboard 1.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/Artboard 1_1.png">
-  <img src="images/Artboard 1_1.png" alt="Antonio Rodriguez Jr" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="/images/Assets/Artboard 1.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/Assets/Artboard 1_1.png">
+  <img src="images/Assets/Artboard 1_1.png" alt="Antonio Rodriguez Jr" width="100%">
 </picture>
 </div>
 <p><strong>I am a Full-Stack Web Developer who combines adaptability, attention to detail, and continuous learning to create responsive, accessible, and user-focused digital experiences.</strong></p>
@@ -21,6 +21,13 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 - Cooking food
 
 ## 📚 Knowledge  
+
+### Education 
+| School | Focus Area |
+| --- | --- |
+| **Arizona State University** | Bachelor of Science (BS) Graphic Information Technology (Full-Stack Web Development) |
+| **Riverside City College** | Web Development Mastery Certification|
+
 
 ### ⚡ Skills  
 
@@ -44,16 +51,23 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
  
 ### 👥 Mentor Connection 
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
+- Mentor Connection Case Study: <a href="/CaseStudyContent/MentorConnection.md">
 - [Mentor Connection Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
   
 ### ☕ SoCal Coffee Shop
 - A project giving an online platform to a local business.
+- SoCal Coffee Shop Case Study: <a href="/CaseStudyContent/SoCalCoffeeShop.md">
 - [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio)
 - [SoCal Coffee Shop Repository](https://github.com/Antonio6658/SoCalCoffeeShop)
   
 ### ⛳ VGC Introduction
 - A website giving information regarding playing competitive Pokémon
+- VGC Introduction Case Study: <a href="/CaseStudyContent/VGCIntroduction.md">
 - [VGC Introduction Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
+
+### ✈️ eDreams UX Redesign
+- Reformatting eDreams Website for a better user experience.
+- eDreams Case Study: <a href="/CaseStudyContent/eDreams.md">
   
 ## 📬 Contact 
 You can find me here! Let’s work together!
