@@ -14,7 +14,7 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 
 ### 🏈 Interests  
 - Playing video games
-- Collecting Pokemon Trading Cards
+- Collecting Pokémon trading cards
 - Watching football
 - Coding for fun
 - Enjoying new music
@@ -49,12 +49,12 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 
 ## 🚀 Projects/featured work 
  
-### 👥 Mentor Connection 
+### 👥 Mentor Connection (work in progress)
 - A website about connecting with Mentors. Getting better at your hobby. Making memories.
 - <a href="CaseStudyContent/MentorConnection.md">Case Study</a> | [Repository](https://github.com/Antonio6658/GIT-480-Senior-Project)
   
 ### ☕ SoCal Coffee Shop
-- A project giving an online platform to a local business.
+- A project providing an online platform to a local business.
 - <a href="CaseStudyContent/SoCalCoffeeShop.md">Case Study</a> | [Repository](https://github.com/Antonio6658/SoCalCoffeeShop) | [Behance portfolio for project](https://www.behance.net/gallery/256904231/GIT-417-Final-Project-Portfolio) 
   
 ### ⛳ VGC Introduction
@@ -62,7 +62,7 @@ I am 28 years old and from Southern California. I have been studying Full-Stack 
 - <a href="CaseStudyContent/VGCIntroduction.md">Case Study</a> | [Repository](https://github.com/Antonio6658/Responsive-Layout-Systems-Build)
 
 ### ✈️ eDreams UX Redesign
-- Reformatting eDreams Website for a better user experience.
+- Reformatting the eDreams Website for a better user experience.
 - <a href="CaseStudyContent/eDreams.md">Case Study</a>
   
 ## 📬 Contact 
