@@ -19,6 +19,8 @@ The work is expected to be concluded by December 4th, 2026. I will update this c
 | --- | --- |
 | <img src="/images/MentorConnection/moodboard.png">  | <img src="/images/MentorConnection/profile wireframe.png"> |
 
-
-### Working Page designs
-<img src="/images/MentorConnection/homepage.png" width="80%"> <img src="/images/MentorConnection/profile page.png" width="80%"> <img src="/images/MentorConnection/threads.png" width="80%"> <img src="/images/MentorConnection/search.png" width="80%">
+### Website Screenshots
+| Working Page Designs | Not Finalized |
+| --- | --- |
+| <img src="/images/MentorConnection/homepage.png"> | <img src="/images/MentorConnection/profile page.png"> |
+| <img src="/images/MentorConnection/threads.png"> | <img src="/images/MentorConnection/search.png"> |
