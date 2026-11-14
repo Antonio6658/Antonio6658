@@ -1,5 +1,4 @@
-## Project Title
-**Building a website presence for a local business**
+# Building a website presence for a local business
 
 ## Objective
 I was tasked with creating a website platform for a local coffee shop that needed a digital presence to boost business and exposure. Because I frequent local coffee shops, I always check a business’s online presence to view menus and pricing when I am not physically there. Giving this shop an online presence will help them gain a stronger following.
@@ -16,11 +15,9 @@ Once the work was finished, SoCal Coffee Shop had an interactive landing page fo
 ## Project Photos
 
 ### Planning Process
-- Moodboard
-<img src="/images/SoCalCoffeeShop/moodboard-coffeeshop.png">
-
-- Wireframe
-<img src="/images/SoCalCoffeeShop/coffeeshop-wireframe.jpg">
+| Moodboard | Wireframe |
+| --- | --- |
+| <img src="/images/SoCalCoffeeShop/moodboard-coffeeshop.png">  | <img src="/images/SoCalCoffeeShop/coffeeshop-wireframe.jpg"> |
 
 ### Final Designs
 - Light Mode

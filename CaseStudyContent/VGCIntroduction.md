@@ -1,5 +1,4 @@
-## Project Title
-**Bringing an informational platform to a growing player base**
+# Bringing an informational platform to a growing player base
 
 ## Objective
 I was tasked with developing an informational website about the rules of Competitive Pokémon. The client wanted to help players have access to resources and information about the game.
@@ -14,14 +13,10 @@ To begin development, I identified the best way to showcase the information by c
 I finished the project before the deadline. It resulted in a site that gives a basic introduction to playing Pokémon VGC, with written content, external resources, and an easily accessible webpage. My portfolio displays the work for viewing.
 
 ## Project Photos
-### Planning Process
-- Wireframes
-<img src="/images/VGCIntroduction/HomePage-VGC.png">
-<img src="/images/VGCIntroduction/teams-vgc.png">
-<img src="/images/VGCIntroduction/Basics-VGC.png">
 
-### Final Designs
-<img src="/images/VGCIntroduction/HomePage-vgc-final.png">
-<img src="/images/VGCIntroduction/teams-vgc-final.png">
-<img src="/images/VGCIntroduction/Basics-VGC-final.png">
-<img src="/images/VGCIntroduction/resources-vgc-final.png">
+| Wireframes | Final Designs |
+| --- | --- |
+| <img src="/images/VGCIntroduction/HomePage-vgc.png">  | <img src="/images/VGCIntroduction/HomePage-vgc-final.png"> |
+| <img src="/images/VGCIntroduction/teams-vgc.png">  | <img src="/images/VGCIntroduction/teams-vgc-final.png"> |
+| <img src="/images/VGCIntroduction/Basics-VGC.png">  | <img src="/images/VGCIntroduction/Basics-VGC-final.png"> |
+|  | <img src="/images/VGCIntroduction/resources-vgc-final.png"> |

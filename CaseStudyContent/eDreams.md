@@ -16,10 +16,10 @@ The reformatted webpage eliminated visual clutter and confusing user task flow.
 ## Project Photos
 
 ### Planning Process
-- Task Flow and Wireframes
-<img src="/images/eDreams/taskflow.png">
-<img src="/images/eDreams/wireframe-edream.png">
-<img src="/images/eDreams/figma-wireframe-edream.png">
+| Task Flow | Wireframes |
+| --- | --- | --- |
+| <img src="/images/eDreams/taskflow.png">  | <img src="/images/eDreams/wireframe-edream.png"> |  <img src="/images/eDreams/figma-wireframe-edream.png"> |
 
--Final Mock Up
+
+### Final Mock Up
 <img src="/images/eDreams/edreams-mockup.png">
